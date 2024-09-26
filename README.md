@@ -36,7 +36,7 @@ Clona el repositorio:
 bash
 Edit
 Copy code
-git clone https://github.com/tu_usuario/etl-aerolineas-brasil.git
+git clone [https://github.com/tu_usuario/etl-aerolineas-brasil.git](https://github.com/Chris3riel/etl-aerolineas-brasil.git)
 cd etl-aerolineas-brasil
 Crea un entorno virtual e instala las dependencias:
 
