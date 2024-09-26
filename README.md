@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # ETL de Aerolíneas de Brasil
 Este repositorio contiene un proyecto de ETL (Extract, Transform, Load) para procesar y analizar datos públicos de aerolíneas en Brasil. El objetivo es extraer datos de diversas fuentes públicas, transformarlos para obtener información útil y cargarlos en una base de datos para su posterior análisis.
 
